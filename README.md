@@ -1,24 +1,3 @@
-![capa.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/26c83597-8ec0-4433-93e0-ae8b4fddec72/capa.png)
-
----
-
-1ª Edição
-
-Material desenvolvido para o ensino de Lógica de Programação e Programação 1. E-book (2021)
-
-Esta obra pode ser reproduzida, no todo ou em parte, desde que citada a fonte.
-
-ASSUNÇÃO, Arthur Nascimento. Programação para quem não tem facilidade. 1ª ed. Ouro Preto. 2021.
-
-E-book, no formato PDF (indefinido p.)
-
-1. Programação. 2. Lógica. 3. Informática. 4. Aprendizado. Assunção, Arthur Nascimento.
-
----
-
-Ebook criado por [Arthur Assuncao](https://arthurassuncao.com), professor do IFSudesteMG e desenvolvedor Front-end.
-Este ebook pode ser acesso pela url [https://www.notion.so/Conceitos-b-sicos-de-inform-tica-d356a28d68af42b5929eb05011bc8168](https://www.notion.so/Conceitos-B-sicos-de-Inform-tica-d356a28d68af42b5929eb05011bc8168).
-
 # Sobre o livro e o método das 7 competências
 
 ## Introdução
